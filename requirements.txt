@@ -1,0 +1,6 @@
+argparse
+beautifulsoup4
+colorama
+dnspython
+requests
+whois
